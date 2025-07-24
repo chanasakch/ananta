@@ -1,0 +1,20 @@
+#diamond-selector {
+  margin-top: 20px;
+  border-radius: 8px;
+  max-width: 400px;
+}
+
+#diamond-selector select {
+  padding: 8px;
+  width: 100%;
+  font-size: 18px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  border: 1px solid #aaa;
+}
+
+#diamond-selector .price-summary {
+  margin-top: 10px;
+  font-size: 18px;
+  line-height: 1.5;
+}
