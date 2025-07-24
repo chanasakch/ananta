@@ -1,3 +1,9 @@
+Due to time constraints and a high workload during the ANANTA technical test period, I was only able to complete the implementation up to this point. I did my best to cover all core requirements, and I believe that with more time to study and understand the full structure, I could have delivered a more polished and complete solution.
+
+If ANANTA were to give me the opportunity, I would be truly grateful and fully committed to growing, learning, and contributing to the best of my ability. I’m confident that, with proper onboarding and guidance from the Tech team, I can quickly adapt and help deliver solutions that meet your expectations.
+
+Thank you very much for the opportunity and for considering my application.
+
 # ANANTA Custom Diamond Plugin
 
 A WordPress plugin developed for the ANANTA technical test. It enables customers to select a custom diamond when purchasing a ring setting. The project also includes a containerized deployment using Docker and a CI/CD pipeline via GitHub Actions.
