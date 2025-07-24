@@ -1,3 +1,5 @@
+Please Read My README2.MD
+
 # ANANTA Technical Test
 ANANTA would like to introduce a new custom ring product, the so-called Setting, where customers can choose their own diamond when purchasing a ring. ANANTA customers include local Thais and foreigners; as a result, the feature must support localization.
 
